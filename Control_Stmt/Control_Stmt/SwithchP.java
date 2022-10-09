@@ -19,9 +19,6 @@ public class SwithchP {
             case 3:
                 System.out.println(3);
                 break;
-	    case 4:
-		System.out.println(4);
-		break;
             default:
                 System.out.println("invalid");
 
