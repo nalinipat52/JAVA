@@ -6,7 +6,7 @@ public class while2 {
         while(n!=0)
         {
             System.out.print(" "+n);
-            n = n-5;
+            n = n-10;
         }
     }
 }
